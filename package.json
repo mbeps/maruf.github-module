@@ -1,6 +1,6 @@
 {
-    "name": "github-extension-pack",
-    "displayName": "GitHub Extension Pack",
+    "name": "github-module",
+    "displayName": "GitHub Module",
     "description": "Collection of GitHub extensions only",
     "version": "0.0.1",
     "publisher": "Maruf",
