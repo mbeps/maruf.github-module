@@ -2,7 +2,7 @@
     "name": "github-module",
     "displayName": "GitHub Module",
     "description": "Collection of GitHub extensions only",
-    "version": "1.0",
+    "version": "0.0.1",
     "publisher": "Maruf",
     "repository": "https://github.com/mbeps/maruf.github-module",
     "engines": {
